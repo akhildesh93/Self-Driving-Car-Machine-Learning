@@ -17,3 +17,4 @@ behavior-cloning.py
       - trains model (train/validation split)
       - downloads model
 
+Model successfully generalizes and car autonomously drives through Course 2
