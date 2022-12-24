@@ -14,6 +14,6 @@ behavior-cloning.py
       - augments data with generator (zoom, brightening, pan, flip)
       - preprocesses data
       - NVIDIA Convolutional Neural Network
-      - trains model
+      - trains model (train/validation split)
       - downloads model
 
