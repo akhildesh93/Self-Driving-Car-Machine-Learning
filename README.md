@@ -7,8 +7,8 @@ driving-log.csv
   - contains info about each image (steering angle utilized)
 
 behavior-cloning.py
-  -uses training data to create a Convolutional Neural Network
-  -Neural Network architecture structured from NVIDIA CNN for lane lines
+  - uses training data to create a Convolutional Neural Network
+  - Neural Network architecture structured from NVIDIA CNN for lane lines
 
   Machine Learning steps:
     - augments data with generator (zoom, brightening, pan, flip)
