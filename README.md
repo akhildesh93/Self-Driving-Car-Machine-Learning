@@ -18,3 +18,7 @@ behavior-cloning.py
       - downloads model
 
 Model successfully generalizes and car autonomously drives through Course 2
+
+traffic_signs_cnn.py
+  - Convolutional Neural Network to identify road signs
+  - Performs at 97.2% accuracy on test set
