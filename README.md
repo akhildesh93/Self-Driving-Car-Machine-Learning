@@ -10,7 +10,7 @@ behavior-cloning.py
   - uses training data to create a Convolutional Neural Network
   - Neural Network architecture structured from NVIDIA CNN for lane lines
 
-    Machine Learning steps:
+    Algorithmic steps:
       - augments data with generator (zoom, brightening, pan, flip)
       - preprocesses data
       - NVIDIA Convolutional Neural Network
