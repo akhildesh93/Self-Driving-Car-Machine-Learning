@@ -17,7 +17,7 @@ behavior-cloning.py
       - trains model (train/validation split)
       - downloads model
 
-Model successfully generalizes and car autonomously drives through Course 2
+Model successfully generalizes and car autonomously drives through Course 2 (testing)
 
 traffic_signs_cnn.py
   - Convolutional Neural Network to identify road signs
