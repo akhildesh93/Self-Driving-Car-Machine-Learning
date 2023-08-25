@@ -1,3 +1,6 @@
+This is a Self Driving Car Simulation based on a vehicle simulation from https://github.com/udacity/self-driving-car-sim. 
+Watch the demo (self-driving-car-demo.mp4)
+
 IMG/
   - contains image files of training data
   - used simulator from https://github.com/udacity/self-driving-car-sim
